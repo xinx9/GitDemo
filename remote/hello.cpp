@@ -1,5 +1,5 @@
 #include "iostream"
 int main(void){
-	std::cout << "Hello my name is brandon\nI am El Presidente\n";
+	std::cout << "I'm Austin\n";
 	return 0;
 }
